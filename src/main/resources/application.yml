@@ -1,0 +1,14 @@
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
+
+logging:
+  level:
+    root: INFO
+    it.develhope.Loggingesercizio.services: DEBUG
+
+
+myCustomProper:
+  N1: 2
+  N2: 8
